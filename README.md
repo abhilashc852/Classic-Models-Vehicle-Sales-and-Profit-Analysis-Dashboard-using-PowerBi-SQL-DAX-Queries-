@@ -28,7 +28,7 @@ The Classic Models project involves creating a comprehensive sales dashboard usi
 
 **Purpose:** This feature allows users to explore different aspects of the data in more detail by seamlessly transitioning between related dashboards.
 
-# Example Insights from the Dashboard
+# Insights from the Dashboard
 
 **Total Sales:** $9.6 million, with the USA and the rest of the world contributing significantly.
 
